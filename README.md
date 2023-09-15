@@ -1,8 +1,6 @@
 
+# Hi, I'm Karthigan👋 
 
-
-
-# Hi there! 👋 I'm Karthigan 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/karthiganu2004/">
@@ -11,9 +9,11 @@
   <a href="mailto:kuthayan@uwaterloo.ca">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
+<div/>
 
-  
-Welcome to my GitHub profile! Greetings! I'm Karthigan Uthayan, a Mechatronics Engineer at the University of Waterloo. I'm passionate about technology, particularly in the fields of Machine Learning, AI, Robotics, and more. I'm driven by a deep curiosity to shape the future by solving complex problems and transforming ideas into reality.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=059312&width=435&lines=Mechatronics+Engineer+%40+UWaterloo;Passionate+about+AI%2FML)](https://git.io/typing-svg)
+
+Welcome to my GitHub profile! Greetings! I'm Karthigan Uthayan, a Mechatronics Engineer at the University of Waterloo in my 2A term. I'm passionate about technology, particularly in the fields of Machine Learning, AI, Robotics, and more. I'm driven by a deep curiosity to shape the future by solving complex problems and transforming ideas into reality.
 
 With a strong foundation in machine learning and programming, I aim to push the boundaries of what's achievable. I firmly believe that Artificial Intelligence and Neural Networks are powerful tools capable of revolutionizing industries and enhancing lives.
 
