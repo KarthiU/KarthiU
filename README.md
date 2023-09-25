@@ -23,7 +23,7 @@ My work in robotics explores the tangible aspects of AI, where I create intellig
 
 [![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-yellow?style=for-the-badge&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![CSS](https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
