@@ -13,11 +13,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=059312&width=435&lines=Mechatronics+Engineer+%40+UWaterloo;Passionate+about+AI%2FML)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! Greetings! I'm Karthigan Uthayan, a Mechatronics Engineer at the University of Waterloo in my 2A term. I'm passionate about technology, particularly in the fields of Machine Learning, AI, Robotics, and more. I'm driven by a deep curiosity to shape the future by solving complex problems and transforming ideas into reality.
+<table>
+   <tr>
+      <td>
+         <!-- Image -->
+         <img src="https://github.com/KarthiU/KarthiU/assets/112822491/8c7df2de-507c-4834-9a99-94c7f140d4c8" alt="Karthigan Uthayan's Profile Image" width="300"/>
+      </td>
+      <td>
+         <!-- Text -->
+         <h2>Welcome to my GitHub profile!</h2>
+         <p>I'm Karthigan Uthayan, a Mechatronics Engineer at the University of Waterloo in my 2A term. I'm passionate about technology, particularly in the fields of Machine Learning, AI, Robotics, and more. I'm driven by a deep curiosity to shape the future by solving complex problems and transforming ideas into reality.</p>
+         <p>With a strong foundation in machine learning and programming, I aim to push the boundaries of what's achievable. I firmly believe that Artificial Intelligence and Neural Networks are powerful tools capable of revolutionizing industries and enhancing lives.</p>
+         <p>My work in robotics explores the tangible aspects of AI, where I create intelligent systems that interact with and adapt to their surroundings. Whether it's designing algorithms, building models, or tinkering with hardware, my goal is to develop technology that makes a meaningful impact. Here are some key aspects I have gotten familiar with!</p>
+      </td>
+   </tr>
+</table>
 
-With a strong foundation in machine learning and programming, I aim to push the boundaries of what's achievable. I firmly believe that Artificial Intelligence and Neural Networks are powerful tools capable of revolutionizing industries and enhancing lives.
-
-My work in robotics explores the tangible aspects of AI, where I create intelligent systems that interact with and adapt to their surroundings. Whether it's designing algorithms, building models, or tinkering with hardware, my goal is to develop technology that makes a meaningful impact. Here some key aspects I have gotten familiar with!
 
 ## Languages
 
