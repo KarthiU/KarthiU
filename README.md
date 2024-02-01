@@ -16,8 +16,6 @@
 <table>
    <tr>
       <td>
-         <!-- Image -->
-         <img src="https://github.com/KarthiU/KarthiU/assets/112822491/8c7df2de-507c-4834-9a99-94c7f140d4c8" alt="Karthigan Uthayan's Profile Image" width="300"/>
       </td>
       <td>
          <!-- Text -->
